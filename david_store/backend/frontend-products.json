@@ -1,0 +1,281 @@
+[
+  {
+    "id": 101,
+    "title": "Iphone 14 Pro",
+    "description": "Latest iPhone 14 Pro with advanced features",
+    "price": 1200,
+    "category": "electronics",
+    "image": "/iphone14pro.jpg",
+    "rating": { "rate": 4.5, "count": 120 }
+  },
+  {
+    "id": 102,
+    "title": "Iphone 15 Pro",
+    "description": "iPhone 15 Pro flagship device",
+    "price": 1300,
+    "category": "electronics",
+    "image": "/iphone_15_pro.jpg",
+    "rating": { "rate": 4.6, "count": 150 }
+  },
+  {
+    "id": 103,
+    "title": "Iphone 16 Pro",
+    "description": "iPhone 16 Pro latest generation",
+    "price": 1000,
+    "category": "electronics",
+    "image": "/Iphone16pro.jpg",
+    "rating": { "rate": 4.3, "count": 95 }
+  },
+  {
+    "id": 104,
+    "title": "Iphone 17 Pro",
+    "description": "iPhone 17 Pro cutting edge smartphone",
+    "price": 1400,
+    "category": "electronics",
+    "image": "/Iphone17pro.jpg",
+    "rating": { "rate": 4.7, "count": 200 }
+  },
+  {
+    "id": 105,
+    "title": "Samsung Galaxy S20 Ultra",
+    "description": "Samsung Galaxy S20 Ultra powerful phone",
+    "price": 230,
+    "category": "electronics",
+    "image": "/s20ultra.jpg",
+    "rating": { "rate": 4.2, "count": 80 }
+  },
+  {
+    "id": 106,
+    "title": "Samsung Galaxy S21 Ultra",
+    "description": "Samsung Galaxy S21 Ultra premium device",
+    "price": 250,
+    "category": "electronics",
+    "image": "/s21ultra.jpg",
+    "rating": { "rate": 4.4, "count": 100 }
+  },
+  {
+    "id": 107,
+    "title": "Samsung Galaxy S22 Ultra",
+    "description": "Samsung Galaxy S22 Ultra flagship",
+    "price": 500,
+    "category": "electronics",
+    "image": "/s22ultra.jpg",
+    "rating": { "rate": 4.5, "count": 110 }
+  },
+  {
+    "id": 108,
+    "title": "Samsung Galaxy S23 Ultra",
+    "description": "Samsung Galaxy S23 Ultra latest model",
+    "price": 750,
+    "category": "electronics",
+    "image": "/s23ultra.jpg",
+    "rating": { "rate": 4.6, "count": 130 }
+  },
+  {
+    "id": 109,
+    "title": "Samsung Galaxy S24 Ultra",
+    "description": "Samsung Galaxy S24 Ultra premium smartphone",
+    "price": 1000,
+    "category": "electronics",
+    "image": "/s24ultra.jpg",
+    "rating": { "rate": 4.7, "count": 160 }
+  },
+  {
+    "id": 110,
+    "title": "Samsung Galaxy S25 Ultra",
+    "description": "Samsung Galaxy S25 Ultra next generation",
+    "price": 1500,
+    "category": "electronics",
+    "image": "/s25ultra.jpg",
+    "rating": { "rate": 4.8, "count": 180 }
+  },
+  {
+    "id": 111,
+    "title": "Wireless Headset",
+    "description": "Premium wireless headset with noise cancellation",
+    "price": 200,
+    "category": "electronics",
+    "image": "/headset.jpg",
+    "rating": { "rate": 4.4, "count": 75 }
+  },
+  {
+    "id": 112,
+    "title": "Earpod",
+    "description": "Wireless earbuds with excellent sound quality",
+    "price": 80,
+    "category": "electronics",
+    "image": "/earpod.jpg",
+    "rating": { "rate": 4.3, "count": 60 }
+  },
+  {
+    "id": 113,
+    "title": "Macbook Pro",
+    "description": "MacBook Pro high-performance laptop",
+    "price": 1500,
+    "category": "electronics",
+    "image": "/macbookpro.jpg",
+    "rating": { "rate": 4.8, "count": 200 }
+  },
+  {
+    "id": 114,
+    "title": "Samsung Galaxy Book",
+    "description": "Samsung Galaxy Book powerful laptop",
+    "price": 1200,
+    "category": "electronics",
+    "image": "/samsung.jpg",
+    "rating": { "rate": 4.5, "count": 90 }
+  },
+  {
+    "id": 115,
+    "title": "HP Elitebook",
+    "description": "HP Elitebook professional grade laptop",
+    "price": 1100,
+    "category": "electronics",
+    "image": "/hp.jpg",
+    "rating": { "rate": 4.6, "count": 110 }
+  },
+  {
+    "id": 1,
+    "title": "Iphone 14 Pro",
+    "description": "Latest iPhone 14 Pro with advanced features",
+    "price": 1200,
+    "category": "electronics",
+    "image": "/iphone14pro.jpg",
+    "rating": { "rate": 4.5, "count": 120 }
+  },
+  {
+    "id": 2,
+    "title": "Iphone 15 Pro",
+    "description": "iPhone 15 Pro flagship device",
+    "price": 1300,
+    "category": "electronics",
+    "image": "/iphone_15_pro.jpg",
+    "rating": { "rate": 4.6, "count": 150 }
+  },
+  {
+    "id": 3,
+    "title": "Iphone 16 Pro",
+    "description": "iPhone 16 Pro latest generation",
+    "price": 1000,
+    "category": "electronics",
+    "image": "/iphone16pro.jpg",
+    "rating": { "rate": 4.3, "count": 95 }
+  },
+  {
+    "id": 4,
+    "title": "Iphone 17 Pro",
+    "description": "iPhone 17 Pro cutting edge smartphone",
+    "price": 1400,
+    "category": "electronics",
+    "image": "/iphone17pro.jpg",
+    "rating": { "rate": 4.7, "count": 200 }
+  },
+  {
+    "id": 5,
+    "title": "Samsung Galaxy S20 Ultra",
+    "description": "Samsung Galaxy S20 Ultra powerful phone",
+    "price": 230,
+    "category": "electronics",
+    "image": "/s20ultra.jpg",
+    "rating": { "rate": 4.2, "count": 80 }
+  },
+  {
+    "id": 6,
+    "title": "Samsung Galaxy S21 Ultra",
+    "description": "Samsung Galaxy S21 Ultra premium device",
+    "price": 250,
+    "category": "electronics",
+    "image": "/s21ultra.jpg",
+    "rating": { "rate": 4.4, "count": 100 }
+  },
+  {
+    "id": 7,
+    "title": "Samsung Galaxy S22 Ultra",
+    "description": "Samsung Galaxy S22 Ultra flagship",
+    "price": 500,
+    "category": "electronics",
+    "image": "/s22ultra.jpg",
+    "rating": { "rate": 4.5, "count": 110 }
+  },
+  {
+    "id": 8,
+    "title": "Samsung Galaxy S23 Ultra",
+    "description": "Samsung Galaxy S23 Ultra latest model",
+    "price": 750,
+    "category": "electronics",
+    "image": "/s23ultra.jpg",
+    "rating": { "rate": 4.6, "count": 130 }
+  },
+  {
+    "id": 9,
+    "title": "Samsung Galaxy S24 Ultra",
+    "description": "Samsung Galaxy S24 Ultra premium smartphone",
+    "price": 1000,
+    "category": "electronics",
+    "image": "/s24ultra.jpg",
+    "rating": { "rate": 4.7, "count": 160 }
+  },
+  {
+    "id": 10,
+    "title": "Samsung Galaxy S25 Ultra",
+    "description": "Samsung Galaxy S25 Ultra next generation",
+    "price": 1500,
+    "category": "electronics",
+    "image": "/s25ultra.jpg",
+    "rating": { "rate": 4.8, "count": 180 }
+  },
+  {
+    "id": 11,
+    "title": "Wireless Headset",
+    "description": "Premium wireless headset with noise cancellation",
+    "price": 200,
+    "category": "electronics",
+    "image": "/headset.jpg",
+    "rating": { "rate": 4.4, "count": 75 }
+  },
+  {
+    "id": 12,
+    "title": "Earpod",
+    "description": "Wireless earbuds with excellent sound quality",
+    "price": 80,
+    "category": "electronics",
+    "image": "/earpod.jpg",
+    "rating": { "rate": 4.3, "count": 60 }
+  },
+  {
+    "id": 13,
+    "title": "Macbook Pro",
+    "description": "MacBook Pro high-performance laptop",
+    "price": 1500,
+    "category": "electronics",
+    "image": "/macbookpro.jpg",
+    "rating": { "rate": 4.8, "count": 200 }
+  },
+  {
+    "id": 14,
+    "title": "Samsung Galaxy Book",
+    "description": "Samsung Galaxy Book powerful laptop",
+    "price": 1200,
+    "category": "electronics",
+    "image": "/samsung.jpg",
+    "rating": { "rate": 4.5, "count": 90 }
+  },
+  {
+    "id": 15,
+    "title": "HP Elitebook",
+    "description": "HP Elitebook professional grade laptop",
+    "price": 1100,
+    "category": "electronics",
+    "image": "/hp.jpg",
+    "rating": { "rate": 4.6, "count": 110 }
+  },
+  {
+    "id": 16,
+    "title": "Lenovo Thinkpad",
+    "description": "Lenovo Thinkpad reliable business laptop",
+    "price": 1300,
+    "category": "electronics",
+    "image": "/lenovo.jpg",
+    "rating": { "rate": 4.7, "count": 140 }
+  }
+]

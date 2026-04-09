@@ -1,0 +1,92 @@
+[
+  {
+    "productId": 1,
+    "userId": "user1",
+    "userName": "John Doe",
+    "rating": 5,
+    "title": "Excellent Quality Product",
+    "comment": "This product exceeded my expectations. Great quality and fast shipping!",
+    "helpful": 12
+  },
+  {
+    "productId": 1,
+    "userId": "user2",
+    "userName": "Sarah Smith",
+    "rating": 4,
+    "title": "Very Good",
+    "comment": "Good product. Would recommend to others. Packaging was excellent.",
+    "helpful": 8
+  },
+  {
+    "productId": 2,
+    "userId": "user3",
+    "userName": "Mike Johnson",
+    "rating": 5,
+    "title": "Best Purchase Ever",
+    "comment": "Amazing quality and durability. Exactly what I was looking for.",
+    "helpful": 15
+  },
+  {
+    "productId": 2,
+    "userId": "user4",
+    "userName": "Emma Davis",
+    "rating": 4,
+    "title": "Good Value",
+    "comment": "Great product for the price. Satisfied with my purchase.",
+    "helpful": 6
+  },
+  {
+    "productId": 3,
+    "userId": "user5",
+    "userName": "Robert Wilson",
+    "rating": 5,
+    "title": "Perfect Fit",
+    "comment": "Perfect fit and excellent comfort. Will buy again!",
+    "helpful": 10
+  },
+  {
+    "productId": 3,
+    "userId": "user6",
+    "userName": "Lisa Anderson",
+    "rating": 3,
+    "title": "Average",
+    "comment": "Average product. Not bad but expected better quality.",
+    "helpful": 4
+  },
+  {
+    "productId": 4,
+    "userId": "user7",
+    "userName": "James Brown",
+    "rating": 4,
+    "title": "Good Quality",
+    "comment": "Good quality product. Shipping was quick and packaging was secure.",
+    "helpful": 7
+  },
+  {
+    "productId": 4,
+    "userId": "user8",
+    "userName": "Jessica Martinez",
+    "rating": 5,
+    "title": "Outstanding",
+    "comment": "Outstanding product! Highly recommended for anyone considering this.",
+    "helpful": 14
+  },
+  {
+    "productId": 5,
+    "userId": "user9",
+    "userName": "David Taylor",
+    "rating": 5,
+    "title": "Luxury and Quality",
+    "comment": "Premium quality, beautiful design. Worth every penny!",
+    "helpful": 11
+  },
+  {
+    "productId": 5,
+    "userId": "user10",
+    "userName": "Michelle Garcia",
+    "rating": 4,
+    "title": "Very Nice",
+    "comment": "Very nice piece. Elegant and well-made. Happy with the purchase.",
+    "helpful": 9
+  }
+]
