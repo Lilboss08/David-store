@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "nodemon index.js",
+    "build": "node index.js",
     "seed": "node seedProducts.js",
     "seed:frontend": "node seedFrontendProducts.js",
     "seed:reviews": "node seedReviews.js",
