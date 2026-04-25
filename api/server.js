@@ -26,11 +26,11 @@ app.use(locationRouter);
 
 
 // creating an express server
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 5000;
 
-let MONGODB_URL = process.env.MONGODB_URL;
+const MONGODB_URL = process.env.MONGODB_URL;
 
-mongoose.connect(process.env.MONGODB_URL)
+mongoose.connect(MONGODB_URL)
 .then(async (conn)=>{
     console.log(`database connected successfully to ${conn.connection.host}`);
 

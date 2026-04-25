@@ -1,0 +1,19 @@
+services:
+  - type: web_service
+    name: david-store-backend
+    env: node
+    plan: starter
+    branch: main
+    buildCommand: cd backend && npm install
+    startCommand: cd backend && npm start
+    autoDeploy: true
+
+  - type: static_site
+    name: david-store-frontend
+    env: static
+    plan: starter
+    branch: main
+    root: frontend
+    buildCommand: npm install && npm run build
+    publishPath: dist
+    autoDeploy: true
